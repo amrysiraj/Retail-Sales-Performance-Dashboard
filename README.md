@@ -14,7 +14,7 @@ The **Retail Sales Performance Dashboard** provides a comprehensive view of reta
 - **Interactive Filters** – Slicers for time, region, and product categories.
 - **Drill-Through** – Ability to view detailed customer or regional data.
 - **Sales and Profit Views** – Use the **Sales View** or **Profit View** buttons to seamlessly toggle customer insights between sales and profit perspectives.
-- **Detailed Customer Insights** – Right-click on a customer name in the table and select **Drill-through → Customer Details** for an in-depth view 
+- **Detailed Customer Insights** – Right-click on a customer name in the table and select **Drill-through → Customer Details** for an in-depth view of that customer’s data.
 
 
 ## View Dashboard PDF
